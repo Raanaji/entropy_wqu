@@ -1,0 +1,26 @@
+READ ME FOR USER
+----------------------
+
+Before running the .ipynb file, please do the following;
+
+RUN ALL FILES IN THE SAME FOLDER AS INUT DATA
+
+pip install PyPortfolioOpt
+pip install yfinance
+pip install pulp
+pip install quandl
+
+This is a draft project - the project is a skeletal structure to the final version. The following will be added to the final version;
+
+1. We are yet to properly reference the concepts, we are also yet to inter-refer equations for the ease of understanding of the user.
+
+2. The final project will contain in-depth analysis of the output. 
+
+3. The final project will have proper format
+
+AIM OF THE DRAFT PROJECT
+------------------------
+
+1. The aim of the draft project is to demonstrate what the group has built on from the materials submitted previously
+
+2. We have copiously integrated the theory and have assimilated the code for supporting theory and giving outputs.
